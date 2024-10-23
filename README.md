@@ -1,4 +1,4 @@
-<img width="250" align="right" src="https://media1.tenor.com/m/CzdMW7wnLn8AAAAC/coding.gif">
+
 <h3 align="center">
 ## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
 
