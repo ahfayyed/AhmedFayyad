@@ -3,12 +3,10 @@
 ## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
 
 
+<h3 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
-<!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com? 
-  font=Fira+Code&pause=1000&color=64F7C9&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" </a>
-</p>
+
 <h2>🙋‍♂️About Me</h2>
 ## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
 ---
