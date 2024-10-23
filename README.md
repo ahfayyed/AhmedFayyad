@@ -1,29 +1,29 @@
 
 <h3 align="center">
      🌟🌟 Ahmed Fayyad's Profile 🌟🌟
-
-
 <h3 align="center">
+     
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 <!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&lines=WELCOME+TO+MY+PROFILE" alt="Typing SVG" </a>
 </p>
 
-<p>
-  
+
 <h2>🙋‍♂️About Me</h2>
-     🌟🌟 Ahmed Fayyad's Profile 🌟🌟
+🌟🌟 Ahmed Fayyad's Profile 🌟🌟
 ---I'm a Computer Science student 🎓 passionate about web development and competitive programming!
-<hr>
-     
+
+
+<hr>     
 - 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript, React)
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
 - 💬 Ask me about anything related to web development or algorithms
-
 <hr>
+
 
 📫 How to reach me :
 
@@ -31,6 +31,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fayyad-97a727265/)
 
 <hr> 
+
 
 🛠 Skills
 
@@ -40,7 +41,9 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+
 <hr>
+
 
 **Web Development** :
 
@@ -49,7 +52,9 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+
 <hr>
+
 
 **Software Development** :
 
