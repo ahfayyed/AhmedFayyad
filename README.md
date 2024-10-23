@@ -1,6 +1,6 @@
 
 <h3 align="center">
-## **🌟🌟 Omar Khaled's Profile 🌟🌟**
+## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟**
 
 
 </h3>
@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64F7C9&random=false&width=435&lines=welcome+to+my+profile" alt="Typing SVG" </a>
 </p>
 <h2>🙋‍♂️About Me</h2>
-## **🌟🌟 Omar Khaled's Profile 🌟🌟**
+## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟**
 ---
 I'm a Computer Science student 🎓 passionate about web development and competitive programming!
 
@@ -17,6 +17,12 @@ I'm a Computer Science student 🎓 passionate about web development and competi
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
 - 💬 Ask me about anything related to web development or algorithms
+
+### 📫 How to reach me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahfayyad.m@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fayyad-97a727265/)
+
 
 ### 🛠 Skills
 
