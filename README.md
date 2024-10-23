@@ -1,6 +1,6 @@
 
 <h3 align="center">
-## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
+     🌟🌟 Ahmed Fayyad's Profile 🌟🌟
 
 
 <h3 align="center">
@@ -14,7 +14,7 @@
 <p>
   
 <h2>🙋‍♂️About Me</h2>
-## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
+     🌟🌟 Ahmed Fayyad's Profile 🌟🌟
 ---
 I'm a Computer Science student 🎓 passionate about web development and competitive programming!
 
