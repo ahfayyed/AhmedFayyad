@@ -6,6 +6,10 @@
 <h3 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
+<!-- Typing SVG (Optional - Customize the text below) -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=An%20Implementation%20Specialist%20%20%20;Passionate%20About%20learning%20%20%20&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p>
 
 <h2>🙋‍♂️About Me</h2>
 ## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
