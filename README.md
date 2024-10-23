@@ -22,17 +22,19 @@
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
 - 💬 Ask me about anything related to web development or algorithms
+
 <hr>
-### 📫 How to reach me:
-<hr>
+
+📫 How to reach me :
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahfayyad.m@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fayyad-97a727265/)
 
 <hr> 
 
-### 🛠 Skills
+🛠 Skills
 
-**Programming Languages**:
+**Programming Languages** :
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -40,7 +42,7 @@
 
 <hr>
 
-**Web Development**:
+**Web Development** :
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -49,7 +51,7 @@
 
 <hr>
 
-**Software Development**:
+**Software Development** :
 
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-3DDC84?style=for-the-badge&logo=google%20classroom&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-0096FF?style=for-the-badge&logo=java&logoColor=white)
@@ -59,7 +61,7 @@
 
 <hr>
 
-**Soft Skills**:
+**Soft Skills** :
 
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FF5733?style=for-the-badge&logo=thinkpad&logoColor=white)
 ![Willingness to Learn](https://img.shields.io/badge/Willingness%20to%20Learn-009688?style=for-the-badge&logo=microsoft&logoColor=white)
