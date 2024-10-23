@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&lines=welcome+to+my+profile" alt="Typing SVG" </a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&lines=WELCOME+to+MY+PROFILE" alt="Typing SVG" </a>
 </p>
 
 <p>
