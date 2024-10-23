@@ -22,17 +22,14 @@ I'm a Computer Science student 🎓 passionate about web development and competi
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
 - 💬 Ask me about anything related to web development or algorithms
-<p>
+
 ### 📫 How to reach me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahfayyad.m@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fayyad-97a727265/)
 
-<p>
-
   
 ### 🛠 Skills
-
 
 **Programming Languages**:
 
