@@ -11,7 +11,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=f75c7e&random=false&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&lines=welcome+to+my+profile" alt="Typing SVG" </a>
 </p>
 
-
+<p>
+  
 <h2>🙋‍♂️About Me</h2>
 ## **🌟🌟 Ahmed Fayyad's Profile 🌟🌟** ##
 ---
@@ -21,20 +22,25 @@ I'm a Computer Science student 🎓 passionate about web development and competi
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
 - 💬 Ask me about anything related to web development or algorithms
-
+<p>
 ### 📫 How to reach me:
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahfayyad.m@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-fayyad-97a727265/)
 
+<p>
 
+  
 ### 🛠 Skills
+
 
 **Programming Languages**:
 
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
 **Web Development**:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -49,6 +55,7 @@ I'm a Computer Science student 🎓 passionate about web development and competi
 ![Algorithms](https://img.shields.io/badge/Algorithms-FF5733?style=for-the-badge&logo=apache%20spark&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 **Soft Skills**:
 
