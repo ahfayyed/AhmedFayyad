@@ -15,9 +15,9 @@
   
 <h2>🙋‍♂️About Me</h2>
      🌟🌟 Ahmed Fayyad's Profile 🌟🌟
----
-I'm a Computer Science student 🎓 passionate about web development and competitive programming!
-
+---I'm a Computer Science student 🎓 passionate about web development and competitive programming!
+<p>
+     
 - 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript, React)
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming** 
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
