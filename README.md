@@ -18,14 +18,15 @@
 
 
 <hr>     
+
 - 🌱 I’m currently learning **Frontend Development** (HTML, CSS, JavaScript, React)
 
 - 💻 I love solving problems and sharpening my skills in **Competitive Programming**
-- 
+
 - 🌍 From Egypt 🇪🇬, exploring the world of code one day at a time
-- 
+
 - 💬 Ask me about anything related to web development or algorithms
-- 
+  
 <hr>
 
 
